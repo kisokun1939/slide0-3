@@ -1,4 +1,4 @@
-.c {
+#c {
   text-align:center;
 }
 .wf-sawarabimincho {
@@ -70,7 +70,6 @@ a.btn-flat {
 }
 
 a.btn-flat span {
-    text-align:center;
 
   position: relative;
 }
