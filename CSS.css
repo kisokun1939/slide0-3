@@ -70,6 +70,8 @@ a.btn-flat {
 }
 
 a.btn-flat span {
+    text-align:center;
+
   position: relative;
 }
 
