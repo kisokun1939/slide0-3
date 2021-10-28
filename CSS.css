@@ -1,4 +1,4 @@
-* {
+.c {
   text-align:center;
 }
 .wf-sawarabimincho {
@@ -16,6 +16,9 @@
 }
 #content{
     margin: 6vw 6vw 6vw 6vw;
+}
+.left {
+  text-align:left;
 }
 *,
 *:before,
